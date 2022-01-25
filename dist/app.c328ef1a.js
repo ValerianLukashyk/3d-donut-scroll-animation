@@ -46683,7 +46683,7 @@ function toTrianglesDrawMode(geometry, drawMode) {
   return newGeometry;
 }
 },{"three":"node_modules/three/build/three.module.js"}],"models/donut.glb":[function(require,module,exports) {
-module.exports = "3d-donut-scroll-animation/donut.3ebb46cb.glb";
+module.exports = "donut.3ebb46cb.glb";
 },{}],"node_modules/gsap/gsap-core.js":[function(require,module,exports) {
 "use strict";
 
@@ -52584,7 +52584,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52939" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60347" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -52761,4 +52761,4 @@ function hmrAcceptRun(bundle, id) {
   }
 }
 },{}]},{},["../../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","app.js"], null)
-//# sourceMappingURL=3d-donut-scroll-animation/app.c328ef1a.js.map
+//# sourceMappingURL=app.c328ef1a.js.map
