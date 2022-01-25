@@ -9,6 +9,7 @@
   "dependencies": {
     "gsap": "^3.9.1",
     "smooth-scrollbar": "^8.7.4",
-    "three": "^0.136.0"
+    "three": "^0.136.0",
+    "three-outlinepass": "^1.2.0"
   }
 }
