@@ -46683,7 +46683,7 @@ function toTrianglesDrawMode(geometry, drawMode) {
   return newGeometry;
 }
 },{"three":"node_modules/three/build/three.module.js"}],"models/donut.glb":[function(require,module,exports) {
-module.exports = "/donut.3ebb46cb.glb";
+module.exports = "donut.3ebb46cb.glb";
 },{}],"node_modules/gsap/gsap-core.js":[function(require,module,exports) {
 "use strict";
 
