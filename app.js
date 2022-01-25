@@ -3,7 +3,6 @@ import Scrollbar from 'smooth-scrollbar';
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import donut from "./models/donut.glb";
 import { gsap } from "gsap";
-import "./style.scss";
 
 
 window.isMobile = function() {
